@@ -65,9 +65,9 @@ Worked on billing, power analytics, and backend APIs using Java + Spring Boot + 
 
 ## 📫 Let’s Connect
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yourprofile)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/panneerselvam-arumugam-6b58b5105/).
 - 🔗 [GitHub](https://github.com/yourusername)
-- 📧 panneerselvam.dev@gmail.com
+- 📧 panneerselvam3260@gmail.com
 
 ---
 
